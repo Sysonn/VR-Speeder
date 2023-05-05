@@ -15,7 +15,7 @@ git clone https://github.com/<username>/<repository_name>.git
 
 2. Open `index.html` in your browser.
 
-You can also try the live demo version [here](https://<username>.github.io/<repository_name>/).
+You can also try the live demo version [here](http://www.derek-sisson.com/vr/).
 
 ## Usage
 * Look around by moving your VR headset or your mouse.
